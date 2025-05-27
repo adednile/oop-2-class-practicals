@@ -1,11 +1,11 @@
-public class Update implements DataSource {
+public class Update implements DataSource{
 
-    @Override
+@Override
 
-    public void execute() {
+public void execute() {
 
-        System.out.println("Data has been Updated Successfuly!");
+System.out.println("Data has been Updated Successfuly!");
 
-    }
+}
 
 }

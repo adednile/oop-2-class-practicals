@@ -1,5 +1,5 @@
 public interface DataSource {
 
-    public void execute();
+public void execute();
 
 }

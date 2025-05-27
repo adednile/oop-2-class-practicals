@@ -1,11 +1,11 @@
 public class User extends Account {
 
-    public User(int _id, String _name) {
+public User(int _id, String _name){
 
-        id = _id;
+id = _id;
 
-        name = _name;
+name = _name;
 
-    }
+}
 
 }

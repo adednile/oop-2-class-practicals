@@ -2,17 +2,16 @@ public class Admin extends Account{
 
 // A private string specified only with the Admin
 
-    private String AuthPassword;
+private String AuthPassword;
 
-    public Admin(int _id, String _name, String _password){
+public Admin(int _id, String _name, String _password){
 
-        id = _id;
+id = _id;
 
-        name = _name;
+name = _name;
 
-        AuthPassword = _password;
-
-    }
+AuthPassword = _password;
 
 }
 
+}

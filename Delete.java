@@ -1,12 +1,12 @@
-public class Delete implements DataSource {
+public class Delete implements DataSource{
 
 
-    @Override
+@Override
 
-    public void execute() {
+public void execute() {
 
-        System.out.println("Data has been deleted.");
+System.out.println("Data has been deleted.");
 
-    }
+}
 
 }

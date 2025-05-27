@@ -1,11 +1,11 @@
 public class View implements DataSource {
 
-    @Override
+@Override
 
-    public void execute() {
+public void execute() {
 
-        System.out.println("Some data to be displayed.");
+System.out.println("Some data to be displayed.");
 
-    }
+}
 
 }
