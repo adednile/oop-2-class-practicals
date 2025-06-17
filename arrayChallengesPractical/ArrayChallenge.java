@@ -1,4 +1,4 @@
-package class_exercise_2;
+package arrayChallengesPractical;
 
 public class ArrayChallenge {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package solidPrinciplesPractical;
 //L - Liskov Substitution Principle
 interface Bird {
     void layEgg();

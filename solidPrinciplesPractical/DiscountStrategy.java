@@ -1,3 +1,4 @@
+package solidPrinciplesPractical;
 //O - Open/Closed Principle
 interface DiscountStrategy {
     double getDiscount();

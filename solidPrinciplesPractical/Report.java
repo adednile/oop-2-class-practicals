@@ -1,3 +1,4 @@
+package solidPrinciplesPractical;
 //S - Single Responsibility Principle
 class Report {
     public String generate() {

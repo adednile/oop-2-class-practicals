@@ -1,4 +1,4 @@
-package assignment_1;
+package hellloGreeterPractical;
 
 public class Variables {
     void showInterest(){

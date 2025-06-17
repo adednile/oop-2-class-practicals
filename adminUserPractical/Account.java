@@ -1,4 +1,4 @@
-package assignment_2;
+package adminUserPractical;
 
 abstract public class Account {
 	

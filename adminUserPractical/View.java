@@ -1,4 +1,4 @@
-package assignment_2;
+package adminUserPractical;
 
 public class View implements DataSource {
 

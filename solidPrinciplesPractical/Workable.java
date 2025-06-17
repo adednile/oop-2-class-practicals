@@ -1,3 +1,4 @@
+package solidPrinciplesPractical;
 //I - Interface Segregation Principle
 interface Workable {
     void work();

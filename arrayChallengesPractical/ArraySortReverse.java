@@ -1,4 +1,4 @@
-package class_exercise_2;
+package arrayChallengesPractical;
 
 import java.util.Arrays;
 import java.util.Collections;

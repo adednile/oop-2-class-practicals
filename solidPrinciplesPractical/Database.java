@@ -1,3 +1,4 @@
+package solidPrinciplesPractical;
 //D - Dependency Inversion Principle
 interface Database {
     void connect();

@@ -1,3 +1,5 @@
+package accountPractical;
+
 public class Account {
     public  int accountNo;
     public String accountName;
