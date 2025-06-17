@@ -1,4 +1,4 @@
-package hellloGreeterPractical;
+package helloGreeterPractical;
 
 import java.util.*;
 public class HelloTillStop {

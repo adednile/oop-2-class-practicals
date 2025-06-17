@@ -1,4 +1,4 @@
-package hellloGreeterPractical;
+package helloGreeterPractical;
 
 public class Cashier {
     private double expenditure;

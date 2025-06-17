@@ -1,4 +1,4 @@
-package hellloGreeterPractical;
+package helloGreeterPractical;
 
 import java.util.Scanner;
 public class InputExample {
