@@ -1,3 +1,5 @@
+package assignment_2;
+
 abstract public class Account {
 	
 	protected int id;

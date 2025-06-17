@@ -1,3 +1,5 @@
+package assignment_2;
+
 public class Admin extends Account{
 
 // A private string specified only with the Admin
